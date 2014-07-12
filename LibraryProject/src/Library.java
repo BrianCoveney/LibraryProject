@@ -194,6 +194,8 @@ public class Library extends LibraryBooks
 	public static void MainMenu() 
 	{		
 		try{
+			System.out.println("Test GIT branch");
+			System.out.println("---------------");
 			int menuNo;
 			Scanner kb = new Scanner(System.in);
 			System.out.println("\n \t* Main Menu *\n"
